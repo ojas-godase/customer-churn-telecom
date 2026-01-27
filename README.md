@@ -220,6 +220,9 @@ This Streamlit app is deployed at: https://customer-churn-telecom-prediction.str
 
 ## Demo
 
+![Streamlit app](/Demo1.png)
+![Streamlit app](/Demo2.png)
+
 ## MLOps
 
 MLflow was used during experimentation to track runs, compare models, and store artifacts.
